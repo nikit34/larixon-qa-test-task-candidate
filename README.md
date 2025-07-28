@@ -14,3 +14,6 @@ Clone this repository
 Use the current files, do not change them
 
 **`main.py` and unit tests must run**
+
+#### Solution
+The solution should be designed as a repository in github
